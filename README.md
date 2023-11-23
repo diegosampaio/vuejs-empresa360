@@ -1,4 +1,4 @@
-# vagas-front
+# EMPRESA 360
 
 ## Project setup
 ```
